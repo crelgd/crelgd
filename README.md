@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
+  <h2>Hi there 👋</h2>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -16,6 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>
 </div>
 
-### Language using :
+### 📊 Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crelgd&layout=compact&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crelgd&layout=compact&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
