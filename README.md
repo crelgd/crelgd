@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img
 src="bin/Bocchi.png"
-title="Bocchi" alt="Bocchi" width="400" height="150"/>
+title="Bocchi" alt="Bocchi" width="400" height="200"/>
 <h2>Hi there 👋</h2>
 </div>
 
