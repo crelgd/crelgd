@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img
 src="https://staticc.sportskeeda.com/editor/2023/02/9efe4-16769979125558-1920.jpg"
-title="Bocchi" alt="Bocchi" width="100" height="50"/>
+title="Bocchi" alt="Bocchi"/>
 <h2>Hi there 👋</h2>
 </div>
 
