@@ -17,6 +17,9 @@ title="Bocchi" alt="Bocchi" width="250"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>
+
+  <!--Java-->
+  <img src="https://github.com/devicons/decicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 ### 📊 Stats :
