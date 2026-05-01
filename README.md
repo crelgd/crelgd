@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="banner.png" width=25%s></img>
+    <img src="banner.png" width=20%s></img>
     <div style="width:10%;"></div>
     <div>
         <h2>Naller the clarre!</h3>
