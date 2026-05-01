@@ -1,4 +1,8 @@
-<img src="20250823163141.png" width="550"></img>
-
-##### Narreiler the clarre!
-Collsoler de allcoi the C sa, Meffal fa'program-wobie nieren de deula sa. 
+<div style="display:flex; justify-content:center; align-items:center;">
+    <img src="banner.png" width=25% align="left"></img>
+    <div style="width:10%;"></div>
+    <div>
+        <h3 align="center">Naller the clarre!</h3>
+        <p>Caulser de alsai the C, Maul fa'program-wobie nieren de deula Sa.</p>
+    </div>
+</div>
