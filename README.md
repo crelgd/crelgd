@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="banner.png" width=25%></img>
+    <img src="banner.png" width=25% align="left"></img>
     <div style="width:10%;"></div>
     <div align="center">
         <h3>Naller the clarre!</h3>
